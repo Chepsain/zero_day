@@ -1,1 +1,1 @@
-echo "**This file is mandatory in projects**"
+echo **This file is mandatory in projects**
